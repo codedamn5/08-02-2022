@@ -1,0 +1,11 @@
+# 08-02-2022
+print('comparision operators') 
+a=int(input('enter a number:')) 
+b=int(input('enter a number:')) 
+print(a<b) 
+print(a>b) 
+print(a==b)
+print(a!=b)
+print(a<=b)
+print(a>=b)
+print(a!=b)
